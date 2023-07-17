@@ -1,2 +1,2 @@
-../tb/mem_pkg.sv
+../tb/uvc/mem_pkg.sv
 +incdir+.
